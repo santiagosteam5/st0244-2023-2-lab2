@@ -1,4 +1,5 @@
-﻿> Santiago Gómez Rueda\n
+﻿> Santiago Gómez Rueda
+ 
 > Samuel Daza Carvajal
 
 # Lab2
